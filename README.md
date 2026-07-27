@@ -1,12 +1,12 @@
 # Approximating $\pi$ using the Monte Carlo Method
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21628866.svg)](https://doi.org/10.5281/zenodo.21628866)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
 This repository contains the Python implementation and the academic paper focused on the stochastic estimation of the mathematical constant $\pi$ via the **Monte Carlo Method** (based on a geometric model of random points inscribed within a square).
 
-📄 **Read the full paper published on Zenodo:** [Approximating $\pi$ using the Monte Carlo Method (DOI)](https://doi.org/10.5281/zenodo.xxxxxxx) *(Replace this link with your actual DOI URL)*
+📄 **Read the full paper published on Zenodo:** [Approximating $\pi$ using the Monte Carlo Method (DOI)](https://doi.org/10.5281/zenodo.21628866) *(Replace this link with your actual DOI URL)*
 
 ---
 
